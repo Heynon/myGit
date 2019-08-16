@@ -17,6 +17,6 @@
 <meta http-equiv="description" content="This is my page">
 </head>
 <body>
-	我的第一个git
+	我的第一个git;我会专心做好...
 </body>
 </html>
